@@ -1,6 +1,6 @@
 # PythonProject
 Hi there!\
-This is repository holds programming projrcts done during the period of stanCode SC001 SC101 course.
+This is repository holds programming projects done during the period of stanCode SC001 SC101 course.
 
 # Project Source Codes:
 * [Breakout Game](PythonProject/break_out_game/breakout.py)
