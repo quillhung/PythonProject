@@ -2,6 +2,8 @@
 Hi there!\
 This is repository holds programming projects done during the period of stanCode SC001 SC101 course.
 
+Watch here *[DEMO VIDEOS!](https://www.youtube.com/playlist?app=desktop&list=PL6FWNwNPGCE56gP3lxhYPLoUbqE_unUiP)*
+
 # Project Source Codes:
 * [Breakout Game](PythonProject/break_out_game/breakout.py)
   * animation & game designing
